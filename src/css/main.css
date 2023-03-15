@@ -133,3 +133,39 @@ main::after {
 .whatsapp:hover {
   background-color: #25D366;
 }
+
+@media (max-width: 768px) {
+  .container {
+    display: flex;
+  }
+
+  .links {
+    display: grid;
+    grid-template-areas: "button button button button" "facebook youtube instagram whatsapp";
+  }
+
+  .playerButton {
+    grid-area: button;
+    width: 100%;
+  }
+
+  .links a {
+    margin: 20px auto;
+  }
+
+  .facebook {
+    grid-area: facebook;
+  }
+
+  .youtube {
+    grid-area: youtube;
+  }
+
+  .instagram {
+    grid-area: instagram;
+  }
+
+  .whatsapp {
+    grid-area: whatsapp;
+  }
+}
