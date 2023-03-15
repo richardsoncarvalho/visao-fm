@@ -1,0 +1,135 @@
+main {
+  background-image: url('https://www.wallpaperbetter.com/wallpaper/700/911/612/listening-music-2K-wallpaper-middle-size.jpg');
+  background-position: center center;
+  background-size: cover;
+  display: flex;
+  height: 80vh;
+  align-items: center;
+  position: relative;
+  transform: scaleX(-1);
+}
+
+main::after {
+  background: rgb(235,102,31);
+  background: linear-gradient(28deg, rgba(235,102,31,1) 0%, rgba(121,9,98,1) 36%, rgba(255,226,0,1) 100%);
+  content: ' ';
+  display: block;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0.8;
+  z-index: 1;
+  transform: scaleX(-1);
+}
+
+.container {
+  transform: scaleX(-1);
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 1fr;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+  max-width: 1024px;
+  margin: 0 auto;
+  width: 100%;
+  z-index: 10;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: var(--background);
+}
+
+.subtitle {
+  color: var(--background);
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 28px;
+  margin-bottom: 40px;
+}
+
+.playerButton {
+  background-color: rgba(235,102,31,1);
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  padding: 10px;
+  width: 50px;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+  transition: all ease-in-out 0.5s;
+
+  margin-right: 20px;
+}
+
+.pause {
+  background: var(--background);
+  width: 200px;
+}
+
+.playerButton:hover {
+  background-color: rgba(235,102,31,1);
+  color: var(--background);
+}
+
+.links {
+  display: flex;
+}
+
+.links a {
+  border: 1px var(--background) solid;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  padding: 10px;
+  border-radius: 25px;
+  width: 50px;
+  position: relative;
+  margin-right: 20px;
+  transition: all ease-in-out 0.5s;
+}
+
+.links a::after {
+  content: ' ';
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  border: 1px rgba(235,102,31,1) solid;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+}
+
+.links a::before {
+  content: ' ';
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  border: 1px rgba(255,226,0,1) solid;
+  position: absolute;
+  left: -3px;
+  bottom: -5px;
+}
+
+.youtube:hover {
+  background-color: #FF0000;
+}
+
+.instagram:hover {
+  background-color: #E1306C;
+}
+
+.facebook:hover {
+  background-color: #4267B2;
+}
+
+.whatsapp:hover {
+  background-color: #25D366;
+}
