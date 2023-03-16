@@ -1,15 +1,15 @@
-main {
+.calltoaction {
   background-image: url('https://www.wallpaperbetter.com/wallpaper/700/911/612/listening-music-2K-wallpaper-middle-size.jpg');
   background-position: center center;
   background-size: cover;
   display: flex;
-  height: 80vh;
   align-items: center;
+  padding: 100px 0;
   position: relative;
   transform: scaleX(-1);
 }
 
-main::after {
+.calltoaction::after {
   background: rgb(235,102,31);
   background: linear-gradient(28deg, rgba(235,102,31,1) 0%, rgba(121,9,98,1) 36%, rgba(255,226,0,1) 100%);
   content: ' ';
@@ -132,6 +132,100 @@ main::after {
 
 .whatsapp:hover {
   background-color: #25D366;
+}
+
+.content {
+  padding: 100px 0;
+}
+
+.content .container {
+  transform: scaleX(1);
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.content .container h2 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.check {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  position: relative;
+  margin-top: 80px;
+}
+
+.check-img {
+  position: relative;
+}
+
+.check-img::after {
+  content: ' ';
+  height: 370px;
+  width: 500px;
+  border-radius: 25px;
+  border: 2px rgba(235,102,31,1) solid;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  transform: rotateZ(345deg);
+  z-index: -1;
+}
+
+.check-img::before {
+  content: ' ';
+  height: 370px;
+  width: 500px;
+  border-radius: 25px;
+  border: 2px #25D366 solid;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  transform: rotateZ(20deg);
+}
+
+.check-img img {
+  display: block;
+  max-height: 370px;
+  max-width: 500px;
+  border-radius: 40px;
+  width: 100%;
+  height: auto;
+}
+
+.check img::after {
+  content: " ";
+  border: 1px #E1306C solid;
+}
+
+.check p {
+  font-size: 22px;
+  line-height: 28px;
+  font-weight: 300;
+  margin: auto 0;
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+}
+
+@media (max-width: 920px) {
+  .check {
+    display: grid;
+    grid-template-areas: "image image" "paragraph paragraph";
+  }
+
+  .check-img {
+    margin: 0 auto;
+    grid-area: image;
+  }
+
+  .check p {
+    grid-area: paragraph
+  }
 }
 
 @media (max-width: 768px) {
