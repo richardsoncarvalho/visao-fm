@@ -1,0 +1,466 @@
+{
+  "0": [
+    {
+      "title": "Coração Sertanejo",
+      "announcer": "Daniel dos Santos",
+      "start": "05:00",
+      "end": "07:00"
+    },
+    {
+      "title": "Agenda do Trabalhador Rural",
+      "announcer": "(Programa Independente)",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    {
+      "title": "Programa evangélico",
+      "announcer": "Chico Benevides (Programa Independente)",
+      "start": "08:00",
+      "end": "09:00"
+    },
+    {
+      "title": "Programação automática",
+      "announcer": "Programação",
+      "start": "09:00",
+      "end": "11:00"
+    },
+    {
+      "title": "Caminhando ao lado das comunidades rurais",
+      "announcer": "(Programa Independente)",
+      "start": "11:00",
+      "end": "13:00"
+    },
+    {
+      "title": "Programação automática",
+      "announcer": "Programação",
+      "start": "13:00",
+      "end": "19:00"
+    },
+    {
+      "title": "Missa da Igreja Católica",
+      "announcer": "(Programa Independente)",
+      "start": "19:00",
+      "end": "21:00"
+    },
+    {
+      "title": "Programação Musical",
+      "announcer": "Programação",
+      "start": "21:00",
+      "end": "05:00"
+    }
+  ],
+  "1": [
+    {
+      "title": "Manhã Sertaneja",
+      "announcer": "Naldo Teixeira",
+      "start": "05:00",
+      "end": "06:45"
+    },
+    {
+      "title": "Programa Independente",
+      "announcer": "(Programa Independente)",
+      "start": "06:45",
+      "end": "07:15"
+    },
+    {
+      "title": "Jornal da Manhã",
+      "announcer": "Clácio Rodrigues e Marcos Paulo",
+      "start": "07:15",
+      "end": "09:00"
+    },
+    {
+      "title": "Zona Livre",
+      "announcer": "Roger Bahia",
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Giro de Notícias",
+      "announcer": "Vilson Nunes",
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "title": "Estação do Sucesso",
+      "announcer": "Jéu Costa e Maysa Santos",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "title": "Sintonia Brega",
+      "announcer": "Sandro Ribeiro",
+      "start": "16:00",
+      "end": "17:30"
+    },
+    {
+      "title": "Rádio Mania",
+      "announcer": "Naldo Teixeira",
+      "start": "17:30",
+      "end": "19:00"
+    },
+    {
+      "title": "Voz do Brasil",
+      "announcer": "Programação",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "title": "No Seu Ritmo",
+      "announcer": "JB",
+      "start": "20:00",
+      "end": "22:00"
+    },
+    {
+      "title": "Patrulha do Tempo",
+      "announcer": "Gino Mendes",
+      "start": "22:00",
+      "end": "00:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "00:00",
+      "end": "05:00"
+    }
+  ],
+  "2": [
+    {
+      "title": "Manhã Sertaneja",
+      "announcer": "Naldo Teixeira",
+      "start": "05:00",
+      "end": "06:45"
+    },
+    {
+      "title": "Programa Independente",
+      "announcer": "(Programa Independente)",
+      "start": "06:45",
+      "end": "07:15"
+    },
+    {
+      "title": "Jornal da Manhã",
+      "announcer": "Clácio Rodrigues e Marcos Paulo",
+      "start": "07:15",
+      "end": "09:00"
+    },
+    {
+      "title": "Zona Livre",
+      "announcer": "Roger Bahia",
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Giro de Notícias",
+      "announcer": "Vilson Nunes",
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "title": "Estação do Sucesso",
+      "announcer": "Jéu Costa e Maysa Santos",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "title": "Sintonia Brega",
+      "announcer": "Sandro Ribeiro",
+      "start": "16:00",
+      "end": "17:30"
+    },
+    {
+      "title": "Rádio Mania",
+      "announcer": "Naldo Teixeira",
+      "start": "17:30",
+      "end": "19:00"
+    },
+    {
+      "title": "Voz do Brasil",
+      "announcer": "Programação",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "title": "No Seu Ritmo",
+      "announcer": "JB",
+      "start": "20:00",
+      "end": "22:00"
+    },
+    {
+      "title": "Patrulha do Tempo",
+      "announcer": "Gino Mendes",
+      "start": "22:00",
+      "end": "00:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "00:00",
+      "end": "05:00"
+    }
+  ],
+  "3": [
+    {
+      "title": "Manhã Sertaneja",
+      "announcer": "Naldo Teixeira",
+      "start": "05:00",
+      "end": "06:45"
+    },
+    {
+      "title": "Programa Independente",
+      "announcer": "(Programa Independente)",
+      "start": "06:45",
+      "end": "07:15"
+    },
+    {
+      "title": "Jornal da Manhã",
+      "announcer": "Clácio Rodrigues e Marcos Paulo",
+      "start": "07:15",
+      "end": "09:00"
+    },
+    {
+      "title": "Zona Livre",
+      "announcer": "Roger Bahia",
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Giro de Notícias",
+      "announcer": "Vilson Nunes",
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "title": "Estação do Sucesso",
+      "announcer": "Jéu Costa e Maysa Santos",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "title": "Sintonia Brega",
+      "announcer": "Sandro Ribeiro",
+      "start": "16:00",
+      "end": "17:30"
+    },
+    {
+      "title": "Rádio Mania",
+      "announcer": "Naldo Teixeira",
+      "start": "17:30",
+      "end": "19:00"
+    },
+    {
+      "title": "Voz do Brasil",
+      "announcer": "Programação",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "title": "No Seu Ritmo",
+      "announcer": "JB",
+      "start": "20:00",
+      "end": "22:00"
+    },
+    {
+      "title": "Patrulha do Tempo",
+      "announcer": "Gino Mendes",
+      "start": "22:00",
+      "end": "00:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "00:00",
+      "end": "05:00"
+    }
+  ],
+  "4": [
+    {
+      "title": "Manhã Sertaneja",
+      "announcer": "Naldo Teixeira",
+      "start": "05:00",
+      "end": "06:45"
+    },
+    {
+      "title": "Programa Independente",
+      "announcer": "(Programa Independente)",
+      "start": "06:45",
+      "end": "07:15"
+    },
+    {
+      "title": "Jornal da Manhã",
+      "announcer": "Clácio Rodrigues e Marcos Paulo",
+      "start": "07:15",
+      "end": "09:00"
+    },
+    {
+      "title": "Zona Livre",
+      "announcer": "Roger Bahia",
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Giro de Notícias",
+      "announcer": "Vilson Nunes",
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "title": "Estação do Sucesso",
+      "announcer": "Jéu Costa e Maysa Santos",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "title": "Sintonia Brega",
+      "announcer": "Sandro Ribeiro",
+      "start": "16:00",
+      "end": "17:30"
+    },
+    {
+      "title": "Rádio Mania",
+      "announcer": "Naldo Teixeira",
+      "start": "17:30",
+      "end": "19:00"
+    },
+    {
+      "title": "Voz do Brasil",
+      "announcer": "Programação",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "title": "No Seu Ritmo",
+      "announcer": "JB",
+      "start": "20:00",
+      "end": "22:00"
+    },
+    {
+      "title": "Patrulha do Tempo",
+      "announcer": "Gino Mendes",
+      "start": "22:00",
+      "end": "00:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "00:00",
+      "end": "05:00"
+    }
+  ],
+  "5": [
+    {
+      "title": "Manhã Sertaneja",
+      "announcer": "Naldo Teixeira",
+      "start": "05:00",
+      "end": "06:45"
+    },
+    {
+      "title": "Programa Independente",
+      "announcer": "(Programa Independente)",
+      "start": "06:45",
+      "end": "07:15"
+    },
+    {
+      "title": "Jornal da Manhã",
+      "announcer": "Clácio Rodrigues e Marcos Paulo",
+      "start": "07:15",
+      "end": "09:00"
+    },
+    {
+      "title": "Zona Livre",
+      "announcer": "Roger Bahia",
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Giro de Notícias",
+      "announcer": "Vilson Nunes",
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "title": "Estação do Sucesso",
+      "announcer": "Jéu Costa e Maysa Santos",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "title": "Sintonia Brega",
+      "announcer": "Sandro Ribeiro",
+      "start": "16:00",
+      "end": "17:30"
+    },
+    {
+      "title": "Rádio Mania",
+      "announcer": "Naldo Teixeira",
+      "start": "17:30",
+      "end": "19:00"
+    },
+    {
+      "title": "Voz do Brasil",
+      "announcer": "Programação",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "title": "No Seu Ritmo",
+      "announcer": "JB",
+      "start": "20:00",
+      "end": "22:00"
+    },
+    {
+      "title": "Patrulha do Tempo",
+      "announcer": "Gino Mendes",
+      "start": "22:00",
+      "end": "00:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "00:00",
+      "end": "05:00"
+    }
+  ],
+  "6": [
+    {
+      "title": "Coração Sertanejo",
+      "announcer": "Daniel dos Santos",
+      "start": "05:00",
+      "end": "07:00"
+    },
+    {
+      "title": "Momento de meditação com Pastor Alberto (Programa Independente)",
+      "announcer": "(Programa Independente)",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    {
+      "title": "Visão Mix",
+      "announcer": "JB",
+      "start": "08:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Programação automática",
+      "announcer": "Programação",
+      "start": "12:00",
+      "end": "17:00"
+    },
+    {
+      "title": "Programa Espírita (Programa Independente)",
+      "announcer": "(Programa Independente)",
+      "start": "17:00",
+      "end": "18:00"
+    },
+    {
+      "title": "Vaquejada Show",
+      "announcer": "Nil Locutor",
+      "start": "18:00",
+      "end": "21:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "21:00",
+      "end": "05:00"
+    }
+  ]
+}
