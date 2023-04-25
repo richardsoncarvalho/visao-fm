@@ -51,6 +51,12 @@
   ],
   "1": [
     {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "00:00",
+      "end": "05:00"
+    },
+    {
       "title": "Manhã Sertaneja",
       "announcer": "Naldo Teixeira",
       "start": "05:00",
@@ -115,16 +121,16 @@
       "announcer": "Gino Mendes",
       "start": "22:00",
       "end": "00:00"
-    },
-    {
-      "title": "Programação Musical Automática",
-      "announcer": "Programação",
-      "start": "00:00",
-      "end": "05:00"
     }
   ],
   "2": [
     {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "00:00",
+      "end": "05:00"
+    },
+    {
       "title": "Manhã Sertaneja",
       "announcer": "Naldo Teixeira",
       "start": "05:00",
@@ -189,16 +195,16 @@
       "announcer": "Gino Mendes",
       "start": "22:00",
       "end": "00:00"
-    },
-    {
-      "title": "Programação Musical Automática",
-      "announcer": "Programação",
-      "start": "00:00",
-      "end": "05:00"
     }
   ],
   "3": [
     {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "00:00",
+      "end": "05:00"
+    },
+    {
       "title": "Manhã Sertaneja",
       "announcer": "Naldo Teixeira",
       "start": "05:00",
@@ -263,16 +269,16 @@
       "announcer": "Gino Mendes",
       "start": "22:00",
       "end": "00:00"
-    },
-    {
-      "title": "Programação Musical Automática",
-      "announcer": "Programação",
-      "start": "00:00",
-      "end": "05:00"
     }
   ],
   "4": [
     {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "00:00",
+      "end": "05:00"
+    },
+    {
       "title": "Manhã Sertaneja",
       "announcer": "Naldo Teixeira",
       "start": "05:00",
@@ -337,16 +343,16 @@
       "announcer": "Gino Mendes",
       "start": "22:00",
       "end": "00:00"
-    },
-    {
-      "title": "Programação Musical Automática",
-      "announcer": "Programação",
-      "start": "00:00",
-      "end": "05:00"
     }
   ],
   "5": [
     {
+      "title": "Programação Musical Automática",
+      "announcer": "Programação",
+      "start": "00:00",
+      "end": "05:00"
+    },
+    {
       "title": "Manhã Sertaneja",
       "announcer": "Naldo Teixeira",
       "start": "05:00",
@@ -411,12 +417,6 @@
       "announcer": "Gino Mendes",
       "start": "22:00",
       "end": "00:00"
-    },
-    {
-      "title": "Programação Musical Automática",
-      "announcer": "Programação",
-      "start": "00:00",
-      "end": "05:00"
     }
   ],
   "6": [
